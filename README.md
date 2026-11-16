@@ -2,6 +2,8 @@
 
 ## Practica 1: Praktische CSS 11.11.'26
 
+!(readme-images/hw_p_CSS.png)
+
 ## Checkout 09.11.'26
 
 **Vraag 1: Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.**
