@@ -2,7 +2,7 @@
 
 ## Practica 1: Praktische CSS 11.11.'26
 
-!(readme-images/hw_p_CSS.png)
+![CSS afbeelding](readme-images/hw_p_CSS.png)
 
 ## Checkout 09.11.'26
 
