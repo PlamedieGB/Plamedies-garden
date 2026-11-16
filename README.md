@@ -1,5 +1,13 @@
 # Learning log van Plamedie
 
+## ## Checkout 16.11.'26
+
+## Practica 4: Schetsen van o.a. interactie en animatie 13.11.'26
+
+## Practica 3: Interactie: MMD, micro-interacties, forms 13.11.'26
+
+## Practica 2: CSS: fonts met kleur en effecten 11.11.'26
+
 ## Practica 1: Praktische CSS 11.11.'26
 
 ![CSS afbeelding](readme-images/hw_p_CSS.png)
