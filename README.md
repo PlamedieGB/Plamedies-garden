@@ -16,9 +16,23 @@
 
 ## Practica 2: CSS: fonts met kleur en effecten 11.11.'26
 
-### Practica 1: Praktische CSS 11.11.'26
+## Practica 1: Praktische CSS 11.11.'26
 
+### voorbereiding
+
+Tijdens deze opdracht heb ik de code van DLO gekopieerd en mijn eigen content ingevuld en ben ik zelf gaan kijken wat de verschillende tags ook alweer doen. Ik merkte dat de meeste kennis een beetje was weggezakt, dus heb ik weer effe gekeken in codepen hoe bepaalde dingen werken, Bijvoorbeeld <ul> en <li> voor het maken van lijstjes, hoe je afbeeldingen toevoegt en hoe je een blockquote maakt. Het was zeker een goede opfrisser om mijn basic html kennis weer op t halen.
+
+Deze dingen neem ik zeker mee bij het verder maken van mijn digital garden
 ![CSS afbeelding](readme-images/hw_p_CSS.png)
+
+Tijdens deze opdracht heb ik de CSS Game gespeeld om meer te leren over de CSS-selectors. In het begin vind ik het best verwarrend en lastig om de juiste selector te benoemen. Na een tijdje begon het wat makkelijker te gaan, maar de levels werder ook steeds moelijker. Door de frustratie ben ik helaas niet verder gekomen dan level :(.
+
+Ik heb geleerd wat een CSS-selector is (bepaal je welke html-element je wilt aanpassen) en hoe ik deze in de code kan benoemen en gebruiken. wat ik meeneem, is dat hier nog meer wil oefenen zodat ik er handiger in word
+![CSS] (readme-images/hw_p_CSS_game.png)
+
+### Opdracht
+
+![lelijke HTML](readme-images/p1_lelijke_html.png)
 
 ## Checkout 09.11.'26
 
