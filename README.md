@@ -1,6 +1,14 @@
 # Learning log van Plamedie
 
-## ## Checkout 16.11.'26
+## Checkout 16.11.'26
+
+### Opdracht 2 – Eigen verkenning
+
+### Opdracht 1 – Rangschikken
+
+## Verkenning onderwerp
+
+## Sprintplanning
 
 ## Practica 4: Schetsen van o.a. interactie en animatie 13.11.'26
 
@@ -8,7 +16,7 @@
 
 ## Practica 2: CSS: fonts met kleur en effecten 11.11.'26
 
-## Practica 1: Praktische CSS 11.11.'26
+### Practica 1: Praktische CSS 11.11.'26
 
 ![CSS afbeelding](readme-images/hw_p_CSS.png)
 
