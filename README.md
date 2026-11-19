@@ -14,9 +14,57 @@
 
 ## Practica 3: Interactie: MMD, micro-interacties, forms 13.11.'26
 
+### Opdracht
+
+De vragen:
+
+1. De context (wat komen mensen doen?)
+
+Mensen komen bij wok to walk om snel hun eigen maaltijd samen te stellen. Ze willen zelf kiezen wat erin komt en niet te lang wachten
+
+Het moet dus snel te gebruiken, duidelijke keuzes, stap voor stap en dus voor een lapto/ipad
+
+2. De verdeling van de content
+
+Ik zou het formulier verdelen in vier duidelijke stappen:
+
+1. Kies je basis
+2. kies je ingrediënten
+3. kies je saus
+4. Controleer de bestelling → bestellen
+
+Zo blijft het overzichtelijk en hoeft de klant niet alles tegelijk te bekijken
+
+3. Wat maakt het verrassend/leuk
+
+ik zou het formulier wat interactiever maken door voorbeelden te laten zien, feedback dus als als je op een knop drukt.
+
+Voor deze opdracht heb ik een schets gemaakt. Ik heb het formulier in drie stappen: je basis, je ingrediënten en je saus. Aan de rechterkant heb ik een overzicht van de bestelling toegevoegd zodat je meteen ziet wat je hebt gekozen.
+
+Tijdens het schetsen heb ik geleerd hoe belangrijk het is om de content logisch te verdelen en het bestelproces overzichtelijk te houden.
+
+Waar ik tegen aan liep, was vooral hoe ik alle keuzes op een scherm logisch kon verdelen zonder dat het te druk zou worden.
+
+Wat ik meeneem is dat het handig is om met duidelijke stappen te werken, zo weet de gebruiker precies waar die is en wat er nog moet gebeuren.
+
+#### Reflectie:
+
+Met deze schets heb ik een eerste idee uitgewerkt voor een gebruiksvriendelijk bestelformulier. In de volgende stap wil ik kijken hoe ik dit verder kan verbeteren en visueel kan uitwerken
+![woktogo schets](readme-images/wok-to-walk_schets.png)
+
 ## Practica 2: CSS: fonts met kleur en effecten 11.11.'26
 
 ### Opdracht
+
+Tijdens deze css-oefening heb ik geleerd hoe je met @font-face een eigen lettertype aan je website kan toevoegen. Ook heb ik geoefend met het aanpassen van letters , zoals de grootte, dikte en kleur. Daarnaast kwam ik er weer achter hoe je verschillende font-weight gebruikt, bijvoorbeeld 400 voor normaal en 700 voor bold.
+
+Waar ik tegenaan liep was vooral het begrijpen hoe je het lettertype goed koppelt aan je css-code dus moet daarmee oefeningen
+
+Wat ik hiervan meeneem, is dat ik nu weet hoe ik zelf lettertypes kan toevoegen en aanpassen om mijn website een eigen uitstraling te geven.
+
+#### Reflectie:
+
+Het was een handige oefening om meer controle te krijgen over de typografie en vormgeving van mijn website
 
 ![font code1](readme-images/font_code.png) ![font code2](readme-images/font_code2.png)
 
