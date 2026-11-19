@@ -18,9 +18,25 @@
 
 ## Practica 1: Praktische CSS 11.11.'26
 
+### Opdracht
+
+Tijdens deze les hebben we de lijke html-pagina met CSS vormgegeven.
+
+Ik heb geleerd dat een website een maximale regellengte kan hebben (max-width: 50ch;), zodat teksten prettiger leesbaar blijven. ook heb ik geleerd dat het beter om lange teksten/broodtekst het beste links uitgelijnd kan zijn. Daarnaast ook dat je met de (cursor: pointer; ) ervoor kunt zorgen dat je bij buttons de muis ziet als je over de buttons heen gaat.
+
+Waar ik ook meer over heb geleerd, zijn de verschillende buttons states ook in css kan aangeven zoals, hover, active, visites en focus. Hiermee kun je de website ook meer toegankelijk maken
+
+Wat ik hiean meeneem, is dat css niet alleen bedoeld is om een website mooier te maken, maar ook om de gebruiksvriendelijkheid en leesbaarheid te verbeteren.
+
+#### Reflectie:
+
+Ik heb geleerd om beter na te denken over de vormgeving en toegankelijkheid van een website. Deze CSS-technieken kan ik ook gebruiken bij mijn eigen Digital Garden.
+
+![lelijke HTML](readme-images/p1_lelijke_html.png)
+
 ### voorbereiding
 
-Tijdens deze opdracht heb ik de code van DLO gekopieerd en mijn eigen content ingevuld en ben ik zelf gaan kijken wat de verschillende tags ook alweer doen. Ik merkte dat de meeste kennis een beetje was weggezakt, dus heb ik weer effe gekeken in codepen hoe bepaalde dingen werken, Bijvoorbeeld <ul> en <li> voor het maken van lijstjes, hoe je afbeeldingen toevoegt en hoe je een blockquote maakt. Het was zeker een goede opfrisser om mijn basic html kennis weer op t halen.
+Tijdens deze opdracht heb ik de code van DLO gekopieerd en mijn eigen content ingevuld en ben ik zelf gaan kijken wat de verschillende tags ook alweer doen. Ik merkte dat de meeste kennis een beetje was weggezakt, dus heb ik weer effe gekeken in codepen hoe bepaalde dingen werken, Bijvoorbeeld ul en li voor het maken van lijstjes, hoe je afbeeldingen toevoegt en hoe je een blockquote maakt. Het was zeker een goede opfrisser om mijn basic html kennis weer op t halen.
 
 Deze dingen neem ik zeker mee bij het verder maken van mijn digital garden
 ![CSS afbeelding](readme-images/hw_p_CSS.png)
@@ -28,11 +44,7 @@ Deze dingen neem ik zeker mee bij het verder maken van mijn digital garden
 Tijdens deze opdracht heb ik de CSS Game gespeeld om meer te leren over de CSS-selectors. In het begin vind ik het best verwarrend en lastig om de juiste selector te benoemen. Na een tijdje begon het wat makkelijker te gaan, maar de levels werder ook steeds moelijker. Door de frustratie ben ik helaas niet verder gekomen dan level :(.
 
 Ik heb geleerd wat een CSS-selector is (bepaal je welke html-element je wilt aanpassen) en hoe ik deze in de code kan benoemen en gebruiken. wat ik meeneem, is dat hier nog meer wil oefenen zodat ik er handiger in word
-![CSS] (readme-images/hw_p_CSS_game.png)
-
-### Opdracht
-
-![lelijke HTML](readme-images/p1_lelijke_html.png)
+![CSS afbeelding](readme-images/hw_p_CSS_game.png)
 
 ## Checkout 09.11.'26
 
@@ -49,6 +61,6 @@ Hoe ik dit heb gekoppeld aan mijn pagina is dat ik eerst via github pages mijn w
 **Vraag 3: Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.**
 Ik kan de aanpassingen aan mijn pagina kan maken is om de code te bewerken in VSCodium en daarna github weer live zetten.
 
-### Reflectie
+#### Reflectie
 
 Tijdens deze opdracht heb ik weer geleerd over githu, github pages en het koppelen van mijn eigen domeinnaam via Transip. Ik vond het ook fijn om de opdracht met een klasgenoot te bespreken en te zien hoe iemand anders ermee aan de slag gaat. Als tip kraag ik om een om digitaaltuintje.nl te kijken voor inspo en te zien wat andere cmd studenten hebben gemaakt
