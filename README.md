@@ -16,6 +16,21 @@
 
 ## Practica 2: CSS: fonts met kleur en effecten 11.11.'26
 
+### voorbereiding
+
+Hiervoor heb ik intro over web safe fonts gelezen.
+Wat ik heb geleerd, is dat je niet zomaar elk lettertype kunt gebruiken. Je moet rekening houden met de beschikbaarheid, bestandsgrootte en eventuele licenties.
+
+- **Web-safe fonts:** Standaard beschikbaar op bijna alle apparaten.
+- **Web font services:** Niet toegestaan voor deze opdracht.
+- **@font-face:** Hiermee kun je eigen lettertypen toevoegen.
+- **Bestandsgrootte:** Te veel fonts kunnen je website trager maken.
+- **Licenties:** Niet ieder lettertype is gratis.
+
+Wat ik hiervan meeneem, is dat ik bewust wil kiezen welke lettertypen ik gebruik en dat ik met `@font-face` meer vrijheid heb in mijn vormgeving.
+
+![font](readme-images/font_properties.png)
+
 ## Practica 1: Praktische CSS 11.11.'26
 
 ### Opdracht
