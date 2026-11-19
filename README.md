@@ -16,6 +16,10 @@
 
 ## Practica 2: CSS: fonts met kleur en effecten 11.11.'26
 
+### Opdracht
+
+![font code1](readme-images/font_code.png) ![font code2](readme-images/font_code2.png)
+
 ### voorbereiding
 
 Hiervoor heb ik intro over web safe fonts gelezen.
