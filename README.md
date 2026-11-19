@@ -12,19 +12,36 @@
 
 ## Practica 4: Schetsen van o.a. interactie en animatie 13.11.'26
 
+### Opdracht -rangschrikken
+
+Als eerst hebben we rangschrik oefening gedaan. Hieruit kwam uit dat goede schetsten bestaan uit:
+
+- Annotaties: Uitleg toevoegen over je schets
+- compact: Niet te veel onnodige tekst erbij
+- Variatie: verschillende ideeën en richtingen proberen
+- Accentkleur: kleur gebruiken om belangrijke onderdelen uittelichten
+- Duidelijke richting: laten ziet wat het idee of doel is van je schets
+
+#### Reflectie:
+
+Door deze oefening weet ik beter waar ik op moet letten bij het maken van mijn eigen schetsen en hoe ik mijn ideeën duidelijker kan presenteren.
+![rate schets1](readme-images/rate_schets_1.jpg)
+![rate schets2](readme-images/rate_schets_2.jpg)
+![rate schets3](readme-images/rate_schets_3.jpg)
+
 ## Practica 3: Interactie: MMD, micro-interacties, forms 13.11.'26
 
 ### Opdracht
 
 De vragen:
 
-1. De context (wat komen mensen doen?)
+**1. De context (wat komen mensen doen?)**
 
 Mensen komen bij wok to walk om snel hun eigen maaltijd samen te stellen. Ze willen zelf kiezen wat erin komt en niet te lang wachten
 
 Het moet dus snel te gebruiken, duidelijke keuzes, stap voor stap en dus voor een lapto/ipad
 
-2. De verdeling van de content
+**2. De verdeling van de content**
 
 Ik zou het formulier verdelen in vier duidelijke stappen:
 
@@ -35,7 +52,7 @@ Ik zou het formulier verdelen in vier duidelijke stappen:
 
 Zo blijft het overzichtelijk en hoeft de klant niet alles tegelijk te bekijken
 
-3. Wat maakt het verrassend/leuk
+**3. Wat maakt het verrassend/leuk**
 
 ik zou het formulier wat interactiever maken door voorbeelden te laten zien, feedback dus als als je op een knop drukt.
 
@@ -50,7 +67,8 @@ Wat ik meeneem is dat het handig is om met duidelijke stappen te werken, zo weet
 #### Reflectie:
 
 Met deze schets heb ik een eerste idee uitgewerkt voor een gebruiksvriendelijk bestelformulier. In de volgende stap wil ik kijken hoe ik dit verder kan verbeteren en visueel kan uitwerken
-![woktogo schets](readme-images/wok-to-walk_schets.png)
+
+![woktogo schets](readme-images/woktowalk_schets.jpg)
 
 ## Practica 2: CSS: fonts met kleur en effecten 11.11.'26
 
