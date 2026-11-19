@@ -12,7 +12,30 @@
 
 ## Practica 4: Schetsen van o.a. interactie en animatie 13.11.'26
 
-### Opdracht -rangschrikken
+### Challenge2 - Schets de animaties en interactie
+
+![schets animatie](readme-images/schets_animatie.jpg)
+
+### Challenge 1 - mi-fi
+
+![schets pinterest](readme-images/schets_pinterest.jpg)
+
+### Opdracht - Schetsen
+
+Tijdens deze tek en schetsoefeningen heb ik geleerd hoe ik mijn schetsen netter en duidelijker kan maken. Zo helpt het bij het tekenen van lange, rechte lijnen om naar het eindpunt te kijken. Ook werkt het beter om een vierkant met vier losse lijnen te tekenen in plaats van één doorlopende lijn.
+
+Daarnaast heb ik geleerd dat je bij low-fi schetsen beter de afbeelding zelf kunt tekenen in plaats van alleen een kruis te gebruiken. Schaduwen kunnen helpen om knoppen, pop-ups en inputvelden duidelijker te maken. Ook is het handig om annotaties een andere kleur te geven, zodat ze beter opvallen.
+
+Wat ik hiervan meeneem, is dat kleine details mijn schetsen duidelijker en overzichtelijker kunnen maken.
+![schets lijnen](readme-images/schets_lijnen.png)
+![schets vierkant](readme-images/schets_vierkant.png)
+![schets iphone](readme-images/schets_iphone.png)
+
+#### Conclusie:
+
+Door deze oefeningen heb ik geleerd om bewuster te schetsen en meer aandacht te besteden aan details, duidelijkheid en afwerking.
+
+### Opdracht - rangschrikken
 
 Als eerst hebben we rangschrik oefening gedaan. Hieruit kwam uit dat goede schetsten bestaan uit:
 
@@ -22,7 +45,7 @@ Als eerst hebben we rangschrik oefening gedaan. Hieruit kwam uit dat goede schet
 - Accentkleur: kleur gebruiken om belangrijke onderdelen uittelichten
 - Duidelijke richting: laten ziet wat het idee of doel is van je schets
 
-#### Reflectie:
+#### Conclusie:
 
 Door deze oefening weet ik beter waar ik op moet letten bij het maken van mijn eigen schetsen en hoe ik mijn ideeën duidelijker kan presenteren.
 ![rate schets1](readme-images/rate_schets_1.jpg)
@@ -64,7 +87,7 @@ Waar ik tegen aan liep, was vooral hoe ik alle keuzes op een scherm logisch kon 
 
 Wat ik meeneem is dat het handig is om met duidelijke stappen te werken, zo weet de gebruiker precies waar die is en wat er nog moet gebeuren.
 
-#### Reflectie:
+#### Conclusie:
 
 Met deze schets heb ik een eerste idee uitgewerkt voor een gebruiksvriendelijk bestelformulier. In de volgende stap wil ik kijken hoe ik dit verder kan verbeteren en visueel kan uitwerken
 
@@ -80,7 +103,7 @@ Waar ik tegenaan liep was vooral het begrijpen hoe je het lettertype goed koppel
 
 Wat ik hiervan meeneem, is dat ik nu weet hoe ik zelf lettertypes kan toevoegen en aanpassen om mijn website een eigen uitstraling te geven.
 
-#### Reflectie:
+#### Conclusie:
 
 Het was een handige oefening om meer controle te krijgen over de typografie en vormgeving van mijn website
 
@@ -113,7 +136,7 @@ Waar ik ook meer over heb geleerd, zijn de verschillende buttons states ook in c
 
 Wat ik hiean meeneem, is dat css niet alleen bedoeld is om een website mooier te maken, maar ook om de gebruiksvriendelijkheid en leesbaarheid te verbeteren.
 
-#### Reflectie:
+#### Conclusie:
 
 Ik heb geleerd om beter na te denken over de vormgeving en toegankelijkheid van een website. Deze CSS-technieken kan ik ook gebruiken bij mijn eigen Digital Garden.
 
@@ -146,6 +169,6 @@ Hoe ik dit heb gekoppeld aan mijn pagina is dat ik eerst via github pages mijn w
 **Vraag 3: Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.**
 Ik kan de aanpassingen aan mijn pagina kan maken is om de code te bewerken in VSCodium en daarna github weer live zetten.
 
-#### Reflectie
+#### Conclusie:
 
 Tijdens deze opdracht heb ik weer geleerd over githu, github pages en het koppelen van mijn eigen domeinnaam via Transip. Ik vond het ook fijn om de opdracht met een klasgenoot te bespreken en te zien hoe iemand anders ermee aan de slag gaat. Als tip kraag ik om een om digitaaltuintje.nl te kijken voor inspo en te zien wat andere cmd studenten hebben gemaakt
