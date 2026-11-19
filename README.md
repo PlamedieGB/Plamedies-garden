@@ -14,10 +14,29 @@
 
 ### Challenge2 - Schets de animaties en interactie
 
+Tijdens deze oefening heb ik geleerd hoe je animaties op verschillende manieren kunt weergeven in een schets. Bijvoorbeeld door stippellijnen te gebruiken, een onderdeel uit te vergroten of pijlen te tekenen om te laten zien dat iets beweegt of ergens inschuift.
+
+Deze technieken heb ik vervolgens toegepast op mijn Wok to Walk-schets. Hiermee kan ik duidelijker laten zien hoe bepaalde elementen reageren en welke bewegingen er in het ontwerp plaatsvinden.
+
+Wat ik hiervan meeneem, is dat je met simpele tekentechnieken al goed kunt uitleggen hoe een animatie of interactie werkt.
+
+#### Conclusie:
+
+Ik heb geleerd hoe ik animaties duidelijker kan schetsen, zodat anderen beter begrijpen hoe mijn ontwerp werkt.
+
 ![schets animatie](readme-images/schets_animatie.jpg)
 
 ### Challenge 1 - mi-fi
 
+Voor deze opdracht heb ik een low-fi schets gemaakt van de Pinterest-homepage. Hierbij heb ik de technieken uit de vorige schetsoefening toegepast, zoals het gebruik van schaduwen, strakkere lijnen en duidelijke vormen.
+
+Ik heb geleerd hoe je met deze technieken een schets netter en duidelijker kunt maken. Waar ik op moest letten, was vooral de indeling van de afbeeldingen en de ruimte tussen de verschillende elementen.
+
+Wat ik hiervan meeneem, is dat kleine details, zoals schaduwen en duidelijke lijnen, ervoor zorgen dat een low-fi schets beter te begrijpen is.
+
+#### Conclusie:
+
+Ik heb de technieken uit de vorige opdracht kunnen toepassen en merk dat ik hierdoor bewuster en duidelijker kan schetsen.
 ![schets pinterest](readme-images/schets_pinterest.jpg)
 
 ### Opdracht - Schetsen
