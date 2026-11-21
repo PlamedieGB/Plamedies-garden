@@ -67,9 +67,7 @@ Als eerst hebben we rangschrik oefening gedaan. Hieruit kwam uit dat goede schet
 #### Conclusie:
 
 Door deze oefening weet ik beter waar ik op moet letten bij het maken van mijn eigen schetsen en hoe ik mijn ideeën duidelijker kan presenteren.
-![rate schets1](readme-images/rate_schets_1.jpg)
-![rate schets2](readme-images/rate_schets_2.jpg)
-![rate schets3](readme-images/rate_schets_3.jpg)
+![rate schetsen](readme-images/rate_schetsen.png)
 
 ## Practica 3: Interactie: MMD, micro-interacties, forms 13.11.'26
 
