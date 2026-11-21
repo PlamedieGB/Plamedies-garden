@@ -1,14 +1,57 @@
 # Learning log van Plamedie
 
+## Practicum Grid 101 + Media queries 101
+
+![practica_grid](readme-images/practica_grid.jpg)
+
+## Voortgang
+
 ## Practicum mooie kleuren en gradients
 
+Tijdens deze opdracht heb ik geleerd hoe ik verschillende kleuren, kleurwaardes en gradients kan gebruiken in CSS. Ik heb geoefend met onder andere RGB, HSL, HEX en verschillende soorten gradients, zoals linear, radial en conic.
+
+Waar ik tegenaan liep, was het begrijpen van de verschillende mogelijkheden en hoe je deze op de juiste manier in CSS toepast.
+
+Wat ik meeneem, is dat ik nu meer mogelijkheden ken om kleuren en achtergronden creatiever te maken.
+
+Ik heb geleerd hoe ik met CSS verschillende kleureffecten kan maken en deze kan gebruiken om mijn website visueel interessanter te maken.
+
+![practica_kleuren](readme-images/practica_kleuren_gradient.jpg)
+
+## Checkout 18.11.'26
+
+**1. Leg uit waar het Visual Research in 3 stappen naartoe werkt**
+Helpt om vanuit inspiratie en onderzoek tot een eigen visuele stijl en een duidelijk ontwerp idee te komen
+
+**2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).**
+Mijn garden gaat over journaling en de verschillende manieren waarop je een journal kunt bijhouden. ik gebruik foto’s, collages, teksten en voorbeelden/inspiratie en uitleg geven
+
+**3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.**
+Ik wil het idee van de open journal verder uitwerken, waarvij je verschillende pagina’s en journalstijlen kunt bekijken.
+
 ## Mini styleguide
+
+Voor deze opdracht heb ik mijn kleurenpalet gemaakt door een screenshot te nemen van mijn eerdere visuele verzameling. Daarna heb ik met Adobe Color Wheel kleuren gekozen die goed bij elkaar passen en bij mijn sfeerwoorden speels en nostalgisch aansluiten.
+
+Ook heb ik een lettertype gekozen op basis van een afbeelding uit mijn vorige typografieverzameling. Via Adobe Fonts heb ik een vergelijkbaar lettertype gezocht.
+
+Ik vond het soms lastig om de juiste kleuren en het lettertype te kiezen die goed bij elkaar passen. Wat ik meeneem, is dat mijn visuele verzameling een goede basis is voor mijn ontwerpkeuzes.
+
+Ik heb nu een kleurenpalet en lettertype die passen bij de speelse en nostalgische sfeer die ik met mijn Digital Garden wil uitstralen.
 
 ![mini_sttleguide](readme-images/mini_styleguide.png)
 
 ## Mobile-first schetsen
 
-![mobile_schetsen](readme-images/mobile_schetsen.png)
+Tijdens deze opdracht heb ik geleerd om mijn ideeën voor de mobiele website verder uit te werken in schetsen. Ik heb ook de randvoorwaarden toegepast, zoals annotaties, een single-column layout, afbeeldingen, tekst in streepjes en golfjes en schaduwen.
+
+Waar ik tegenaan liep, was het bedenken van verschillende schermindelingen die goed bij elkaar passen en duidelijk zijn voor de gebruiker.
+
+Wat ik meeneem, is dat annotaties helpen om mijn ontwerpkeuzes duidelijk uit te leggen en dat ik door te schetsen beter kan nadenken over de gebruikerservaring.
+
+Conclusie: Ik heb nu een duidelijker beeld van hoe mijn mobiele website eruit kan komen te zien.
+
+![mobile_schetsen](readme-images/moebile_schetsen2.png)
 
 ## Schetsoefening Crazy 8
 
