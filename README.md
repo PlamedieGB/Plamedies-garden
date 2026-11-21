@@ -4,9 +4,19 @@
 
 ## Mini styleguide
 
+![mini_sttleguide](readme-images/mini_styleguide.png)
+
 ## Mobile-first schetsen
 
+![mobile_schetsen](readme-images/mobile_schetsen.png)
+
 ## Schetsoefening Crazy 8
+
+Mijn uitgangspunt is om een Digital Garden te maken die voelt als een persoonlijk scrapbook. Ik wil werken met een speelse en nostalgische stijl, waarbij foto's, collages, gescheurd papier en verschillende vormen terugkomen.
+
+In mijn schetsen experimenteer ik met verschillende indelingen, fotokaders, stickers en decoratieve elementen. Ik wil dat de website creatief en persoonlijk aanvoelt, alsof je door iemands journal bladert.
+
+![Crazy8](readme-images/crazy8.png)
 
 ## Visual research
 
