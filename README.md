@@ -2,9 +2,31 @@
 
 ## Practicum Grid 101 + Media queries 101
 
+Tijdens deze opdracht heb ik geleerd hoe ik CSS Grid kan gebruiken om elementen netjes naast en onder elkaar te plaatsen. Ook heb ik geoefend met grid-template-columns, gap en media queries om mijn website responsive te maken.
+
+Waar ik tegenaan liep, was het begrijpen van de verschillende Grid-instellingen en hoe ik ze goed kon combineren.
+
+Wat ik meeneem, is dat ik met CSS Grid meer vrijheid heb om mijn website op verschillende schermformaten in te delen.
+
+Ik heb geleerd hoe ik een flexibele en responsive indeling kan maken die zich aanpast aan de grootte van het scherm. Dit kan ik gebruiken voor mijn Digital Garden.
+
 ![practica_grid](readme-images/practica_grid.jpg)
 
 ## Voortgang
+
+**Feedback:**
+
+- Krijg gelijk een goed beeld bij de scherm schetsen
+- Bij de schetsen oppassen met de leesbaarheid op de telefoon is het wat kleiner
+- Zou eerder bij een begin pagina dat dus een open book hebt met iconen of fotot’s en dat je daarna naar een artikel gaat
+- Leuk als je een handgeschreven font zou gebruiken → je hebt ook website waar je je eigen handschrift als font kan maken
+- Voor het dark modus kleurenpalet hoef je maar paar kleuren te veranderen niet allemaal
+
+## Mobile first: van scherm schetsen naar HTML/CSS
+
+![webby_feedback](readme-images/)
+
+![opzet code](readme-images/eertse_opzet_code.png)
 
 ## Practicum mooie kleuren en gradients
 
