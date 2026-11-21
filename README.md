@@ -16,6 +16,8 @@ Een website is webby als deze creatief, interactief en verrassend is. Ik vond vo
 
 Ik wil een Digital Garden maken over journalen. Met een scrapbook-achtige huisstijl wil ik verschillende journalstijlen laten zien, inspiratie delen en bezoekers zelf onderdelen laten personaliseren.
 
+## Verkenning onderwerp
+
 ### Opdracht 3 – verzamelen van inspiratie
 
 ![verzameling_jjournals](readme-images/verzameling_journals.jpg)
@@ -66,8 +68,6 @@ De website van het andere tweetal scoorde beter bij toegankelijk en interactief/
 **Wat ik heb geleerd:** Dat een website niet alleen gebruiksvriendelijk hoeft te zijn, maar ook een eigen karakter en uitstraling kan hebben.
 
 ![webby onderzoek](readme-images/webby_onderzoek.png)
-
-## Verkenning onderwerp
 
 ## Sprintplanning
 
