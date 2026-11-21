@@ -1,6 +1,20 @@
 # Learning log van Plamedie
 
+## Visual research
+
 ## Checkout 16.11.'26
+
+1. **Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.**
+
+een digital garden anders werkt dan een gewone website of sociale media. Je kunt zelf bepalen hoe je informatie indeeldt, verbanden legt en steeds nieuwe dingen toevoegt. Het hoeft niet perfect te zijn, maar kan steeds blijven groeien en veranderen
+
+1. **Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.**
+
+Een website is webby als deze creatief, interactief en verrassend is. Ik vond vooral **tamaNOTchi.world** inspirerend door de speelse uitstraling, persoonlijke elementen en interacties.
+
+1. **Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.**
+
+Ik wil een Digital Garden maken over journalen. Met een scrapbook-achtige huisstijl wil ik verschillende journalstijlen laten zien, inspiratie delen en bezoekers zelf onderdelen laten personaliseren.
 
 ### Opdracht 3 – verzamelen van inspiratie
 
