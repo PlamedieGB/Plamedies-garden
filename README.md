@@ -1,6 +1,24 @@
 # Learning log van Plamedie
 
+## Practicum mooie kleuren en gradients
+
+## Mini styleguide
+
+## Mobile-first schetsen
+
+## Schetsoefening Crazy 8
+
 ## Visual research
+
+### Stap 3 - Uitgangspunten voor schetsen
+
+Tijdens deze opdracht heb ik geleerd om beter naar typografie te kijken en te herkennen hoe lettertypes, kleuren en vormen samen een bepaalde sfeer creëren. Ik heb vier beelden gekozen die passen bij mijn sfeerwoorden speels en nostalgisch.
+
+Waar ik tegenaan liep, was het vertalen van de inspiratie naar concrete ontwerpkeuzes. Ik moest goed kijken welke onderdelen ik zelf zou willen gebruiken.
+
+Wat ik meeneem, is het combineren van verschillende lettertypes, collages, foto's en vormen om mijn ontwerp persoonlijker te maken.
+
+![uitleg_typografie](readme-images/typo_uitleg.png)
 
 ### Stap 2 - Abstracte vertaling
 
