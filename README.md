@@ -2,13 +2,70 @@
 
 ## Checkout 16.11.'26
 
+### Opdracht 3 – verzamelen van inspiratie
+
+![verzameling_jjournals](readme-images/verzameling_journals.jpg)
+
 ### Opdracht 2 – Eigen verkenning
 
+#### **Digital garden - journal**
+
+**Mijn concept:**
+
+Ik wil een digital garden maken over journalen. Ik wil verschillende stijlen uitleggen en ervan laten zien.
+
+Qua huisstijl wil ik een creative knip-en-plakstijl gebruiken, aslof je door een echte journal of scrapbook bladert.
+
+**Wat wil ik maken?:**
+
+- Een website met een scrapbook uitstraling
+- pagina’s met verschillende journalstijlen
+- inspiratie, voorbeelden en tips
+
+**Welke webby elementen wil ik gebruiken?**
+
+- Focus en hover state
+- Light en dark mode
+- Adaptief maken
+- expessief
+
+**Welke eigen content wil ik maken? + Gebruik van content van anderen**
+
+Ik journal zelf ook dus wil graag mijn eigen journal gebruiken voor foto’s en inspiratie
+
+Ik wil Pinterest en andere journalwebsites gebruiken als inspiratie. Ik neem geen teksten of afbeeldingen zomaar over, maar geef er mijn eigen draai aan door zelf foto's, layouts en voorbeelden te maken. Bij materiaal van anderen let ik op auteursrechten en bronvermelding.
+
+**Hoe wil ik mijn content laten ervaren?**
+
+- **Zien:** Foto's, collages, stickers en voorbeelden.
+- **Lezen:** Informatie, tips en journal prompts.
+- **Doen:** Kleuren kiezen, stickers verplaatsen en moodboards maken.
+- **Ontdekken:** Verschillende journalstijlen bekijken.
+- **Ervaren:** Het gevoel krijgen dat je door een echt scrapbook bladert.
+
 ### Opdracht 1 – Rangschikken
+
+Tijdends het onderzoeken van welke webiste meer webby is kwamen we er achter dat mijn groepje de tamanotchi webiste leuker vonden omdat het ook beter scoorde bij de catagorie, expressief en leuk en verassend. Daardoor was de website persoonlijker en unieker.
+
+De website van het andere tweetal scoorde beter bij toegankelijk en interactief/dynamischer
+
+**Wat ik heb geleerd:** Dat een website niet alleen gebruiksvriendelijk hoeft te zijn, maar ook een eigen karakter en uitstraling kan hebben.
+
+![webby onderzoek](readme-images/webby_onderzoek.png)
 
 ## Verkenning onderwerp
 
 ## Sprintplanning
+
+**Belangrijkste inzichten - The garden and the stream**
+
+- **The garden** = een website waar alles met elkaar is verbonden. Bezoekers kunnen zelf rondkijken en hun eigen route bepalen (aan de garden zit **geen** tijd aan vast)
+- **The stream** = meer als sociale media zoals instagram, tiktok en facebook. Waar je dus updates krijg, de de info volgt elkaar op en verdwijnt weer. (aan sociale media zit **wel** tijd aan vast)
+- **Digital garden:** die hoeft dus geen vaste vogorde te hebben. Je kunt steeds nieuwe info toevoegen, aanpassen en uitbreiden
+
+Ik heb geleerd dat een digital garden anders werkt dan een gewone website of sociale media. Je kunt zlef bepalen hoe je informatie indeeldt, verbanden legt en steeds nieuwe dingen toevoegt. Het hoeft niet perfect te zijn, maar kan steeds blijven groeien en veranderen
+
+**Dit neem ik mee:** Mijn eigen website creatief en persoonlijk maken, zodat bezoekers zelf kunnen ontdekken en rondkijken
 
 ## Practica 4: Schetsen van o.a. interactie en animatie 13.11.'26
 
