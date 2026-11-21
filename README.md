@@ -2,6 +2,25 @@
 
 ## Visual research
 
+### Stap 2 - Abstracte vertaling
+
+Wat mij opvalt is dat er veel verschillende lettertypes worden gebruikt. sommige zijn groot en opvallend, terwijl andere juist sierlijk en speels zijn. Dit past bij de sfeerwoorden omdat, het een creative en vintage uitstraling geeft
+![verzameling_typografie](readme-images/typografie_verzameling.png)
+
+### Stap 1 - Directe visuele vertaling
+
+Ik heb de sfeerwoorden **speels en nostalgisch** gekozen omdat, ik een creatieve en warme sfeer creëren, alsof je door een persoonlijke journal vol herinneringen bladert, met speelse elementen
+
+**Zie je patronen in je verzameling?:**
+
+Ik ziel veel vintage en scrapbook-elementen, zoals foto’s, stickers, collages, handgeschreven teksten. De kleuren zijn vooral beige, lichtblauw, groen en bruin met roze en geel als accenten.
+
+**Wat kun je beschrijven als kenmerken die passen bij je sfeerwoord en je gevonden beelden?:**
+
+Mijn sfeerwoorden zijn **speels en nostalgisch**. Dit zie ik terug in de creatieve collages, oude foto's en persoonlijke details.
+
+![verzameling_sfeerwoorden](readme-images/verzameling_sfeerwoorden.png)
+
 ## Checkout 16.11.'26
 
 1. **Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.**
