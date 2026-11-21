@@ -46,9 +46,8 @@ Tijdens deze tek en schetsoefeningen heb ik geleerd hoe ik mijn schetsen netter 
 Daarnaast heb ik geleerd dat je bij low-fi schetsen beter de afbeelding zelf kunt tekenen in plaats van alleen een kruis te gebruiken. Schaduwen kunnen helpen om knoppen, pop-ups en inputvelden duidelijker te maken. Ook is het handig om annotaties een andere kleur te geven, zodat ze beter opvallen.
 
 Wat ik hiervan meeneem, is dat kleine details mijn schetsen duidelijker en overzichtelijker kunnen maken.
-![schets lijnen](readme-images/schets_lijnen.png)
-![schets vierkant](readme-images/schets_vierkant.png)
-![schets iphone](readme-images/schets_iphone.png)
+
+![schets oefening](readme-images/schetsen_oefening.png)
 
 #### Conclusie:
 
