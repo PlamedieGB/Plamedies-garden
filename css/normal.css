@@ -3,8 +3,8 @@
 **************************/
 
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../fonts/ComicRelief-Regular.woff2);
+  font-family: "Avenir";
+  src: url(../fonts/Avenir.ttc);
   font-weight: 400;
   font-style: normal;
 }
@@ -33,6 +33,7 @@ img {
 
 body {
   font-family: "Comic Relief", system-ui;
+  background-color: oklch(0.9852 0.0139 102.61);
 }
 
 /**************************
@@ -54,10 +55,20 @@ footer {
 **************************/
 
 main {
-  max-width: 30em;
+  max-width: 32em;
   display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15em, 2fr));
   margin: auto;
-  gap: 1em;
+  gap: 2em;
+}
+
+h1 {
+  text-align: center;
+}
+
+article {
+  background-color: white;
+  padding: 1em;
 }
 
 /**************************
