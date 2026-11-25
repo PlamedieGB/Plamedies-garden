@@ -1,5 +1,21 @@
 # Learning log van Plamedie
 
+## Check-out 23.22.'26
+
+## Practicum Everything images
+
+## Check-out 23.22.'26
+
+**1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?**
+
+**2. Vertel welke volgende stap je neemt om je website responsive te maken.**
+
+**3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?**
+
+## Naar een responsive design
+
+## Bi-weekly geek 1
+
 ## Practicum Grid 101 + Media queries 101
 
 Tijdens deze opdracht heb ik geleerd hoe ik CSS Grid kan gebruiken om elementen netjes naast en onder elkaar te plaatsen. Ook heb ik geoefend met grid-template-columns, gap en media queries om mijn website responsive te maken.
@@ -192,6 +208,8 @@ De website van het andere tweetal scoorde beter bij toegankelijk en interactief/
 Ik heb geleerd dat een digital garden anders werkt dan een gewone website of sociale media. Je kunt zlef bepalen hoe je informatie indeeldt, verbanden legt en steeds nieuwe dingen toevoegt. Het hoeft niet perfect te zijn, maar kan steeds blijven groeien en veranderen
 
 **Dit neem ik mee:** Mijn eigen website creatief en persoonlijk maken, zodat bezoekers zelf kunnen ontdekken en rondkijken
+
+-------------Sprint 0--------------------
 
 ## Practica 4: Schetsen van o.a. interactie en animatie 13.11.'26
 
