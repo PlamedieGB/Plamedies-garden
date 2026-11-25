@@ -209,7 +209,7 @@ Ik heb geleerd dat een digital garden anders werkt dan een gewone website of soc
 
 **Dit neem ik mee:** Mijn eigen website creatief en persoonlijk maken, zodat bezoekers zelf kunnen ontdekken en rondkijken
 
--------------Sprint 0--------------------
+## -----------------------------------------Sprint 0-----------------------------------------------------
 
 ## Practica 4: Schetsen van o.a. interactie en animatie 13.11.'26
 
