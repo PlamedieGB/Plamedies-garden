@@ -64,6 +64,7 @@ body {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
+  background-position-y: 2.5em;
 }
 
 /**************************
@@ -107,12 +108,20 @@ h2 {
   text-align: left;
   font-weight: 800;
   font-size: 1.25em;
+  color: var(--zwart);
+}
+
+p {
+  font-family: "Avenir";
+  font-weight: 400;
+  color: var(--zwart);
 }
 
 article {
   background-color: var(--wit);
   padding: 1em;
 }
+
 article:first-child {
   transform: rotate(10deg);
 }
@@ -121,8 +130,30 @@ article:nth-of-type(4n) {
   transform: rotate(-15deg);
 }
 
+article:hover,
+article:first-child:hover,
+article:nth-of-type(4n):hover {
+  transform: scale(1.1);
+  transition: 0.2s, 0.2;
+}
+
 ul {
+  font-family: "Andale Mono";
+  font-weight: 800;
+  color: var(--zwart);
   justify-self: left;
+}
+
+a:link {
+  color: var(--zwart);
+}
+
+a:hover {
+  color: var(--blauw);
+}
+
+a:visited {
+  color: var(--groen);
 }
 
 /**************************
