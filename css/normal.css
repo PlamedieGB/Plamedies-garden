@@ -29,6 +29,14 @@
 
 html {
   color-scheme: light dark;
+
+  --rood: oklch(0.3607 0.1256 27.58);
+  --groen: oklch(0.7004 0.0975 115.36);
+  --blauw: oklch(0.8665 0.0303 178.23);
+  --roze: oklch(0.8336 0.0559 23.87);
+  --beige: oklch(0.9859 0.0145 102.45);
+  --zwart: black;
+  --wit: white;
 }
 
 /**************************
@@ -50,10 +58,10 @@ img {
 
 body {
   font-family: "Comic Relief", system-ui;
-  background-color: oklch(0.9852 0.0139 102.61);
+  background-color: var(--beige);
 
   background-image: url("../images/journalll.png");
-  background-size: 90% 90%;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -77,20 +85,21 @@ footer {
 **************************/
 
 main {
-  max-width: 32em;
-  max-height: 700px;
+  max-width: 36em;
+  max-height: 600px;
 
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15em, 2fr));
   margin: auto;
-  gap: 2em;
+  gap: 6em;
+  row-gap: 3em;
 }
 
 h1 {
   text-align: center;
-  font-weight: 800;
+  font-family: "Priestacy";
   font-size: 3em;
-  color: oklch(0.3607 0.1256 27.58);
+  color: var(--rood);
 }
 
 h2 {
@@ -101,19 +110,19 @@ h2 {
 }
 
 article {
-  background-color: white;
+  background-color: var(--wit);
   padding: 1em;
 }
+article:first-child {
+  transform: rotate(10deg);
+}
 
-h1::first-line {
-  font-family: "Priestacy";
-  font-weight: 400;
-  font-size: em;
-  font-style: normal;
+article:nth-of-type(4n) {
+  transform: rotate(-15deg);
 }
 
 ul {
-  justify-self: center;
+  justify-self: left;
 }
 
 /**************************
