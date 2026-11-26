@@ -61,10 +61,12 @@ body {
   background-color: var(--beige);
 
   background-image: url("../images/my_journal_bg.png");
-  background-size: 80% 110%;
+  background-size: 85% 120%;
   background-repeat: no-repeat;
   background-position: center;
-  background-position-y: 4em;
+  background-position-y: 3em;
+
+  overflow-y: auto;
 }
 
 /**************************
@@ -108,8 +110,8 @@ h2 {
   font-family: "Andale Mono";
   text-align: left;
   font-weight: 800;
-  font-size: 1em;
-  line-height: 0.8;
+  font-size: 1.2em;
+  line-height: 1;
   color: var(--zwart);
 }
 
@@ -122,10 +124,11 @@ p {
 
 article {
   width: 80%;
-  height: 80%;
-  padding: 1em;
+  height: 95%;
+  padding: 0.5em;
   background-color: var(--wit);
   margin: auto;
+  box-shadow: 10px 10px 5px hsla(0, 0%, 24%, 0.2);
 }
 
 article:first-child {
