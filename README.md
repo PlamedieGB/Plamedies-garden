@@ -1,6 +1,24 @@
 # Learning log van Plamedie
 
-## Check-out 26.11.'26
+## proces website - sprint 1
+
+![sprint1_proces1](readme-images/sprint1_proces1.png)
+
+![sprint1_proces2](readme-images/sprint1_proces2.png)
+
+![sprint1_proces3](readme-images/sprint1_proces3.png)
+
+# Bronnen afbeeldingen
+
+https://nl.pinterest.com/pin/992480836638143128/
+https://nl.pinterest.com/pin/1095008096937588039/
+https://nl.pinterest.com/pin/1078893654524151096/
+https://nl.pinterest.com/pin/656399714484155344/
+https://nl.pinterest.com/pin/550283648243501033/
+https://nl.pinterest.com/pin/550283648243501034/
+https://nl.pinterest.com/pin/1057220081302015800/
+
+## Check-out 25.11.'26
 
 **- Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.**
 
@@ -40,7 +58,6 @@ Ik wil de web & mobile versie verder uitwerken, waarbij je bij de mobiel de helf
 
 **3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?**
 Ik heb mijn website expressive gemaakt met de scrapbookstijl en de speelse elementen. Ook heb ik CSS grid voor adaptive design
-![responsive](readme-images/responcive_.png)
 
 ## Naar een responsive design
 
