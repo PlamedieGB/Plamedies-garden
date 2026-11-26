@@ -30,6 +30,13 @@
 
 ## Bi-weekly geek 1
 
+Ik heb geleerd om op een andere manier naar het onderwerp internet te kijken en na te denken over hoe belangrijk internet eigelijk is in ons dagelijks leven. Ook heb ik geleerd welke onderzoekmethodes we kunnen gebruiken om meer informatie over een onderwerp te verzamelen. Heel handig voor leerjaar 4.
+
+Ik liep vooral tegenaan om goede onderzoeksvragen te bedenken en te bepalen welke onderzoekmethodes daar het beste bij past. Gelukkig heeft mijn groepje daarmee geholpen
+
+**Conclusie:** Ik heb geleerd om kritischer na te denken over een onderwerp en niet alleen naar mijn eigen mening te kijken. Door verschillende onderzoeksmethoden te gebruiken, kan ik mijn ideeën beter onderbouwen.
+![bi-geekly-1](readme-images/bi_geekly_1.png)
+
 ## Light & Dark theme
 
 Ik heb geleerd hoe ik met CSS light-dark verschillende kleurthema’s kan maken. Ook heb ik geleerd hoe ik CSS-variabelen kan gebruiken om kleuren makkelijk aan te passen
