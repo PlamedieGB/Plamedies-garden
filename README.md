@@ -1,5 +1,19 @@
 # Learning log van Plamedie
 
+## Check-out 26.11.'26
+
+**- Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.**
+
+1. symmetrie = gelijkheid
+2. nabijheid = elementen dicht bij elkaar
+3. vorm/restvorm = ruimte tussen de elementen
+
+**- Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?**
+
+**- Welk principe neem je mee in een laatste iteratie van je eigen Garden?**
+
+## Gestalt principes
+
 ## Check-out 23.22.'26
 
 ## Practicum Everything images
@@ -209,7 +223,7 @@ Ik heb geleerd dat een digital garden anders werkt dan een gewone website of soc
 
 **Dit neem ik mee:** Mijn eigen website creatief en persoonlijk maken, zodat bezoekers zelf kunnen ontdekken en rondkijken
 
-## -----------------------------------------Sprint 0-----------------------------------------------------
+## --------------------------Sprint 0---------------------------------------
 
 ## Practica 4: Schetsen van o.a. interactie en animatie 13.11.'26
 

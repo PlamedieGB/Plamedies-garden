@@ -60,11 +60,11 @@ body {
   font-family: "Comic Relief", system-ui;
   background-color: var(--beige);
 
-  background-image: url("../images/journalll.png");
-  background-size: 100% 100%;
+  background-image: url("../images/my_journal_bg.png");
+  background-size: 80% 110%;
   background-repeat: no-repeat;
   background-position: center;
-  background-position-y: 2.5em;
+  background-position-y: 4em;
 }
 
 /**************************
@@ -93,7 +93,7 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(15em, 2fr));
   margin: auto;
   gap: 6em;
-  row-gap: 3em;
+  row-gap: 1em;
 }
 
 h1 {
@@ -101,25 +101,31 @@ h1 {
   font-family: "Priestacy";
   font-size: 3em;
   color: var(--rood);
+  line-height: 1;
 }
 
 h2 {
   font-family: "Andale Mono";
   text-align: left;
   font-weight: 800;
-  font-size: 1.25em;
+  font-size: 1em;
+  line-height: 0.8;
   color: var(--zwart);
 }
 
 p {
   font-family: "Avenir";
   font-weight: 400;
+  font-size: 1em;
   color: var(--zwart);
 }
 
 article {
-  background-color: var(--wit);
+  width: 80%;
+  height: 80%;
   padding: 1em;
+  background-color: var(--wit);
+  margin: auto;
 }
 
 article:first-child {
