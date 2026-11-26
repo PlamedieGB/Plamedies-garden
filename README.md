@@ -32,6 +32,18 @@
 
 ## Light & Dark theme
 
+Ik heb geleerd hoe ik met CSS light-dark verschillende kleurthema’s kan maken. Ook heb ik geleerd hoe ik CSS-variabelen kan gebruiken om kleuren makkelijk aan te passen
+
+Ik liep vooral tegenaan om de juiste kleurencombinaties te vinden en ervoor te zorgen dat alles goed leesbaar blijft in beide modus .
+
+Ik heb dit toegepast door mijn ontwerp twee verschillende uitstralingen te geven. De light mode heeft een lichte beige achtergrond met donkerrode tekst. De dark mode heeft een donkerbruine achtergrond met lichte tekst.
+
+**Wat ik nog wil doen:** Ik wil een lampje als knop toevoegen waarmee bezoekers zelf kunnen wisselen tussen light en dark mode.
+
+**Conclusie:** Ik heb geleerd hoe ik met CSS de sfeer van mijn website kan aanpassen. De volgende stap is om de wisselknop werkend te maken.
+
+![light_dark_modus](readme-images/light_dark_modus.png)
+
 ## Practicum Grid 101 + Media queries 101
 
 Tijdens deze opdracht heb ik geleerd hoe ik CSS Grid kan gebruiken om elementen netjes naast en onder elkaar te plaatsen. Ook heb ik geoefend met grid-template-columns, gap en media queries om mijn website responsive te maken.
