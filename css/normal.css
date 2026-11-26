@@ -30,11 +30,24 @@
 html {
   color-scheme: light dark;
 
+  --background: light-dark(
+    oklch(0.9859 0.0145 102.45),
+    oklch(0.2239 0.0607 39.16)
+  );
+
+  --color-h1: light-dark(
+    oklch(0.3607 0.1256 27.58),
+    oklch(0.9859 0.0145 102.45)
+  );
+
+  --color-a: light-dark(black, oklch(0.8336 0.0559 23.87));
+
   --rood: oklch(0.3607 0.1256 27.58);
   --groen: oklch(0.7004 0.0975 115.36);
   --blauw: oklch(0.8665 0.0303 178.23);
   --roze: oklch(0.8336 0.0559 23.87);
   --beige: oklch(0.9859 0.0145 102.45);
+  --bruin: oklch(0.2239 0.0607 39.16);
   --zwart: black;
   --wit: white;
 }
@@ -58,13 +71,13 @@ img {
 
 body {
   font-family: "Comic Relief", system-ui;
-  background-color: var(--beige);
+  background-color: var(--background);
 
   background-image: url("../images/my_journal_bg.png");
   background-size: 85% 120%;
   background-repeat: no-repeat;
   background-position: center;
-  background-position-y: 3em;
+  background-position-y: 2em;
 
   overflow-y: auto;
 }
@@ -95,14 +108,14 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(15em, 2fr));
   margin: auto;
   gap: 6em;
-  row-gap: 1em;
+  row-gap: 2em;
 }
 
 h1 {
   text-align: center;
   font-family: "Priestacy";
   font-size: 3em;
-  color: var(--rood);
+  color: var(--color-h1);
   line-height: 1;
 }
 
@@ -154,15 +167,22 @@ ul {
 }
 
 a:link {
-  color: var(--zwart);
+  color: var(--color-a);
 }
 
 a:hover {
-  color: var(--blauw);
+  color: var(--groen);
 }
 
 a:visited {
-  color: var(--groen);
+  color: var(--blauw);
+}
+
+#light-mode-lamp {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 10%;
 }
 
 /**************************

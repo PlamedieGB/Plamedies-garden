@@ -30,6 +30,8 @@
 
 ## Bi-weekly geek 1
 
+## Light & Dark theme
+
 ## Practicum Grid 101 + Media queries 101
 
 Tijdens deze opdracht heb ik geleerd hoe ik CSS Grid kan gebruiken om elementen netjes naast en onder elkaar te plaatsen. Ook heb ik geoefend met grid-template-columns, gap en media queries om mijn website responsive te maken.
