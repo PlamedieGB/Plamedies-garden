@@ -9,24 +9,52 @@
 3. vorm/restvorm = ruimte tussen de elementen
 
 **- Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?**
+Een grid geeft structuur en overzicht, maar je hebt ook vrijheid om elementen op verschillende manieren te plaatsen.
 
 **- Welk principe neem je mee in een laatste iteratie van je eigen Garden?**
+Ik wil het nabijheidsprincipe meenemen, zodat afbeeldingen en teksten die bij elkaar horen duidelijk bij elkaar staan. Hierdoor wordt mijn website overzichtelijker.
 
 ## Gestalt principes
 
-## Check-out 23.22.'26
+![gestalt-principes_opdracht](readme-images/gestalt-principes_opdracht.png)
+![gestalt-principes_toegepast](readme-images/gestalt-principe_toegepast.png)
 
 ## Practicum Everything images
+
+ik heb geleerd hoe ik afbeeldingen met CSS kan aanpassen, zodat ze beter in mijn ontwerp passen. Ik liep er vooral tegenaan dat sommige afbeeldingen niet goed werden uitgesneden en daardoor niet mooi in de kaartjes stonden.
+
+Ik heb dit opgelost met object-fit: cover, aspect-ratio: 1/1 en object-position: 27% 28%. Hierdoor krijgen de afbeeldingen een vierkante vorm en kan ik zelf bepalen welk gedeelte zichtbaar is.
+
+Wat ik nog wil doen: De afbeeldingen verder finetunen, zodat ze allemaal mooi en gelijkmatig in de kaartjes passen.
+
+Conclusie: Ik heb geleerd hoe ik meer controle krijg over de grootte en uitsnede van afbeeldingen met CSS. Hierdoor sluiten mijn afbeeldingen beter aan bij mijn ontwerp.
+![afbeeldingen_practicas](readme-images/afbeelding_practica.png)
 
 ## Check-out 23.22.'26
 
 **1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?**
+Als kleuren, lettertypes en afbeeldingen niet goed bij elkaar passen, dat een tekst heel breed is dus meer dan 30 karakters
 
 **2. Vertel welke volgende stap je neemt om je website responsive te maken.**
+Ik wil de web & mobile versie verder uitwerken, waarbij je bij de mobiel de helft van een journal ziet i.p.v de hele journal
 
 **3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?**
+Ik heb mijn website expressive gemaakt met de scrapbookstijl en de speelse elementen. Ook heb ik CSS grid voor adaptive design
+![responsive](readme-images/responcive_.png)
 
 ## Naar een responsive design
+
+Ik heb geleerd hoe ik met CSS Grid mijn afbeeldingen en tekst op verschillende manieren kan indelen. Ook heb ik geleerd hoe grid-template-columns, auto-fit en minmax() werken om mijn ontwerp flexibeler te maken.
+
+Ik liep er vooral tegenaan om mijn website responsive te maken en ervoor te zorgen dat de afbeeldingen en onderdelen op kleinere schermen goed blijven staan.
+
+Ik heb dit toegepast door display: grid en grid-template-columns: repeat(auto-fit, minmax(15em, 2fr)) te gebruiken. Hiermee heb ik mijn vier journalstijlen in een grid geplaatst, zodat de indeling zich kan aanpassen aan de beschikbare ruimte.
+
+Wat ik nog wil doen: Ik wil de mobiele versie verder uitwerken, waarbij je op je telefoon maar één helft van de journal ziet en de afbeeldingen netjes onder elkaar staan.
+
+Conclusie: Ik heb geleerd hoe CSS Grid helpt bij het indelen van mijn website. Ik moet nog verder oefenen met responsive design om ervoor te zorgen dat mijn ontwerp op zowel desktop als mobiel goed werkt.
+
+![responsive](readme-images/responcive_.png)
 
 ## Bi-weekly geek 1
 
